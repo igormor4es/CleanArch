@@ -1,0 +1,15 @@
+C:\Users\Igor de Moraes\Documents\Projetos\Clean Arch Macoratti\CleanArch\CleanArch.Application\bin\Debug\net5.0\CleanArch.Application.deps.json
+C:\Users\Igor de Moraes\Documents\Projetos\Clean Arch Macoratti\CleanArch\CleanArch.Application\bin\Debug\net5.0\CleanArch.Application.dll
+C:\Users\Igor de Moraes\Documents\Projetos\Clean Arch Macoratti\CleanArch\CleanArch.Application\bin\Debug\net5.0\ref\CleanArch.Application.dll
+C:\Users\Igor de Moraes\Documents\Projetos\Clean Arch Macoratti\CleanArch\CleanArch.Application\bin\Debug\net5.0\CleanArch.Application.pdb
+C:\Users\Igor de Moraes\Documents\Projetos\Clean Arch Macoratti\CleanArch\CleanArch.Application\bin\Debug\net5.0\CleanArch.Domain.dll
+C:\Users\Igor de Moraes\Documents\Projetos\Clean Arch Macoratti\CleanArch\CleanArch.Application\bin\Debug\net5.0\CleanArch.Domain.pdb
+C:\Users\Igor de Moraes\Documents\Projetos\Clean Arch Macoratti\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.csprojAssemblyReference.cache
+C:\Users\Igor de Moraes\Documents\Projetos\Clean Arch Macoratti\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor de Moraes\Documents\Projetos\Clean Arch Macoratti\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.AssemblyInfoInputs.cache
+C:\Users\Igor de Moraes\Documents\Projetos\Clean Arch Macoratti\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.AssemblyInfo.cs
+C:\Users\Igor de Moraes\Documents\Projetos\Clean Arch Macoratti\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.csproj.CoreCompileInputs.cache
+C:\Users\Igor de Moraes\Documents\Projetos\Clean Arch Macoratti\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.csproj.CopyComplete
+C:\Users\Igor de Moraes\Documents\Projetos\Clean Arch Macoratti\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.dll
+C:\Users\Igor de Moraes\Documents\Projetos\Clean Arch Macoratti\CleanArch\CleanArch.Application\obj\Debug\net5.0\ref\CleanArch.Application.dll
+C:\Users\Igor de Moraes\Documents\Projetos\Clean Arch Macoratti\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.pdb
