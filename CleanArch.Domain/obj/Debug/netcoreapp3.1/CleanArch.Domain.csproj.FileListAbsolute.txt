@@ -1,0 +1,8 @@
+C:\Users\Igor de Moraes\Documents\Projetos\Clean Arch Macoratti\CleanArch\CleanArch.Domain\bin\Debug\netcoreapp3.1\CleanArch.Domain.deps.json
+C:\Users\Igor de Moraes\Documents\Projetos\Clean Arch Macoratti\CleanArch\CleanArch.Domain\bin\Debug\netcoreapp3.1\CleanArch.Domain.dll
+C:\Users\Igor de Moraes\Documents\Projetos\Clean Arch Macoratti\CleanArch\CleanArch.Domain\bin\Debug\netcoreapp3.1\CleanArch.Domain.pdb
+C:\Users\Igor de Moraes\Documents\Projetos\Clean Arch Macoratti\CleanArch\CleanArch.Domain\obj\Debug\netcoreapp3.1\CleanArch.Domain.AssemblyInfoInputs.cache
+C:\Users\Igor de Moraes\Documents\Projetos\Clean Arch Macoratti\CleanArch\CleanArch.Domain\obj\Debug\netcoreapp3.1\CleanArch.Domain.AssemblyInfo.cs
+C:\Users\Igor de Moraes\Documents\Projetos\Clean Arch Macoratti\CleanArch\CleanArch.Domain\obj\Debug\netcoreapp3.1\CleanArch.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Igor de Moraes\Documents\Projetos\Clean Arch Macoratti\CleanArch\CleanArch.Domain\obj\Debug\netcoreapp3.1\CleanArch.Domain.dll
+C:\Users\Igor de Moraes\Documents\Projetos\Clean Arch Macoratti\CleanArch\CleanArch.Domain\obj\Debug\netcoreapp3.1\CleanArch.Domain.pdb
