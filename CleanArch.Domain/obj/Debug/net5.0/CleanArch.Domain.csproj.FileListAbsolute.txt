@@ -9,3 +9,4 @@ C:\Users\Igor de Moraes\Documents\Projetos\Clean Arch Macoratti\CleanArch\CleanA
 C:\Users\Igor de Moraes\Documents\Projetos\Clean Arch Macoratti\CleanArch\CleanArch.Domain\obj\Debug\net5.0\CleanArch.Domain.dll
 C:\Users\Igor de Moraes\Documents\Projetos\Clean Arch Macoratti\CleanArch\CleanArch.Domain\obj\Debug\net5.0\ref\CleanArch.Domain.dll
 C:\Users\Igor de Moraes\Documents\Projetos\Clean Arch Macoratti\CleanArch\CleanArch.Domain\obj\Debug\net5.0\CleanArch.Domain.pdb
+C:\Users\Igor de Moraes\Documents\Projetos\Clean Arch Macoratti\CleanArch\CleanArch.Domain\obj\Debug\net5.0\CleanArch.Domain.csprojAssemblyReference.cache
